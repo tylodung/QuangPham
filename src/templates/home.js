@@ -42,7 +42,7 @@ class Home extends Component {
 
   render() {
     const {data} = this.props;
-    const title = 'Đoàn Bình & Thiên Đường Biển Đảo';
+    const title = 'Đoàn Bình & Đại Dương Thiên Đường';
 
     return (
       <div css={{width: '100%'}}>
@@ -92,7 +92,7 @@ class Home extends Component {
                     fontSize: 60,
                   },
                 }}>
-                Cổng Thiên Đường Biển Đảo
+                Cửa Biển Lớn Nhất Quả Đất
               </h1>
               <p
                 css={{

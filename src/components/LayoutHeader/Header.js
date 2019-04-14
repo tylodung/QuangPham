@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Thiên Đường Biển Đảo
+            Đại Dương Thiên Đường
           </span>
         </Link>
 
@@ -148,7 +148,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="https://123link.biz/"
+            href="https://onenextcloud.club/"
             target="_blank"
             rel="noopener">
             Bakadono {version}

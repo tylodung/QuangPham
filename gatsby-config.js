@@ -8,10 +8,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'Thiên Đường Biển Đảo',
-    siteUrl: 'https://123link.biz',
+    title: 'Đại Dương Thiên Đường',
+    siteUrl: 'https://onenextcloud.club',
     rssFeedTitle: 'thienduongbienxanh',
-    rssFeedDescription: 'Đoàn Bình và Thiên Đường Biển Đảo',
+    rssFeedDescription: 'Đoàn Bình và Đại Dương Thiên Đường',
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
